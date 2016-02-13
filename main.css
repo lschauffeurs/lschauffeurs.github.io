@@ -12,6 +12,15 @@ body {
     margin-top: -100px;
     position: absolute;
     text-align: center;
-    top: 50%;
+    top: 25%;
     width: 100%;
+}
+
+.emailInfo {
+	font-size: 26;
+}
+
+a {
+	color: lightblue;
+
 }
